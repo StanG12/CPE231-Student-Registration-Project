@@ -9,7 +9,6 @@
 
 # Process
 
-- ดึง address ในหน้า student information
-- เพิ่ม column DepartmentID ในตาราง users เป็น varchar(10) NULL
-- ทำให้ครบตาม transaction
-- ทำหน้า Update
+- This project is a part of CPE231 Database System.
+- Using Laravel Frame work
+- Programing Language: PHP,CSS
