@@ -11,4 +11,4 @@
 
 - This project is a part of CPE231 Database System.
 - Using Laravel Frame work
-- Programing Language: PHP,CSS
+- Programing Language: PHP,CSS,JavaScript
